@@ -10,5 +10,6 @@ public class ObjectHit : MonoBehaviour
         {
             GetComponent<MeshRenderer>().material.color = Color.red;
         }
+       
     }
 }
